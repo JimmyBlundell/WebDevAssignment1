@@ -1,0 +1,10 @@
+.about{
+    height: 3em;
+    vertical-align: top;
+}
+
+.register{
+    border: none;
+    background: white;
+    cursor: pointer;
+}
